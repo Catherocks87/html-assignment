@@ -1,0 +1,66 @@
+/* My Awesome CSS */
+body {
+    background-color: pink;font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+}
+
+header, footer {background-color: coral;}
+
+.site-title {
+    color:white;
+}
+
+#my-image {
+    box-shadow: 0 0 2px 1px black;
+}
+
+ul.b {
+    list-style-type: square
+}
+
+li.c:nth-child(odd){
+    background:palevioletred;
+}
+
+ul.no-bullets{
+    list-style-type: none;
+
+} 
+
+a:link {
+    text-decoration: none; background-color: aliceblue; border-style: solid;
+}
+
+a:hover {
+    background-color: blueviolet;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     
+
+
+
